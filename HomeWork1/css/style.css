@@ -1,16 +1,17 @@
 
 body{
 	margin: 0px;
-	background-color: #F5F6CE;
+	background-color: #D3D3D3;
 }
 
 div{
-	margin-top: 8%; 
-	margin-right: 8%;
+	margin-top: 1%; 
+	margin-right: 20%;
 	margin-bottom: 8%;
-	margin-left: 11%;
-	box-shadow: 0 0 100px 20px;
-	padding: 2%;
+	margin-left: 20%;
+	background-color: #F8F8FF;
+	box-shadow: 0 0 10px;
+	padding: 5%;
 }
 
 h1{
