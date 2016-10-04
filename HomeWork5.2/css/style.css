@@ -1,0 +1,58 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+table{
+	background-color: rgb(255,255,255);
+	border-collapse: collapse;
+}
+
+td{
+	background-color: white;
+	border: 5px solid black;
+}
+
+.picture{
+	width: 500px;
+	height: 540px;
+	display: block;
+	margin: 0 auto;
+}
+
+.b{
+	border-bottom: none; 
+}
+
+.l{
+	border-left: none;
+}
+
+.r{
+	border-right: none;
+}
+
+.c{
+	border-color: white;
+}
+
+.t{
+	border-top: none;
+}
+
+.red{
+	background-color: red;
+}
+
+.yellow{
+	background-color: yellow;
+}
+
+.black{
+	background-color: rgb(10,10,10);
+}
+
+.darkblue{
+	background-color: darkblue;
+}
+
