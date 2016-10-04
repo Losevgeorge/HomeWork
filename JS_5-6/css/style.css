@@ -1,0 +1,27 @@
+.container{
+	padding-top: 70px;
+}
+
+.btns{
+	width: 70px;
+	margin: 10px;
+}
+
+.buttons{
+	margin: 0 auto;
+	width: 227px;
+}
+
+.buttons .btn{
+	outline: none;
+	margin-left: 30px;
+}
+
+.times-btn{
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	font-size: 25px;
+}
+
